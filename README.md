@@ -1,1 +1,1 @@
-# bewareos
+# bewareos lite
